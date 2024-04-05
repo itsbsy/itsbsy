@@ -10,6 +10,7 @@
 
 ---
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Development;Always+learning+new+things;Open+Source+Enthusiast;&center=true&width=500&height=50">
 </p>
@@ -24,13 +25,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbsy&theme=dark" alt="itsbsy" />
 </p>
 
+### 📈 My Github Card:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsbsy&theme=vue" alt="Profile Summary" />
+</p>
+
+
+
 ### 🧰 Languages and Tools:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,docker,nestjs,git,github,mongodb,mysql,neo4j,npm,redis,slack,vscode&perline=8" />
 </p>
 
-### 📈 GitHub Activity Graph:
 
 
 ### 👀 Profile Views Counter
