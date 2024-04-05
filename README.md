@@ -15,9 +15,10 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsbsy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsbsy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbsy&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbsy&theme=dark" alt="itsbsy" />
@@ -31,7 +32,6 @@
 
 ### 📈 GitHub Activity Graph:
 
-![Brijesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itsbsy&theme=github)
 
 ### 👀 Profile Views Counter
 
@@ -44,7 +44,7 @@
 Feel free to reach out for collaborations or just for a chat.
 
 <p align="center">
-  <a href="mailto:email@example.com">
+  <a href="brijeshsinghyadav.9@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
