@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Brijesh Singh Yadav - aka Itsbsy 😎</h1>
 
-<h3 align="center">A passionate backend developer from India, weaving magic with code.</h3>
+<h3 align="center">A passionate backend developer, weaving magic with code.</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/itsbsy" target="blank">
