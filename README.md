@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Brijesh Singh Yadav - aka Itsbsy 😎</h1>
+<h1 align="center">Hi there 👋, I'm Brijesh Singh Yadav - Itsbsy 😎</h1>
 
 <h3 align="center">A passionate backend developer, weaving magic with code.</h3>
 
