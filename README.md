@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi there 👋, I'm Brijesh Singh Yadav - Itsbsy 😎</h1>
 
 <h3 align="center">
@@ -12,15 +11,15 @@ real-time applications and distributed systems.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/itsbsy" target="_blank">
-  <img src="https://img.shields.io/badge/-itsbsy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-itsbsy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:brijeshsinghyadav.9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/itsbsy">
-  <img src="https://img.shields.io/github/followers/itsbsy?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/itsbsy?style=for-the-badge"/>
 </a>
 </p>
 
@@ -32,138 +31,95 @@ real-time applications and distributed systems.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💼 Backend Software Engineer with **4+ years of experience**
-- 🚀 Built and maintained **10+ microservices**
-- ⚡ Expertise in **Node.js, TypeScript, Express.js and NestJS**
-- 🌐 Real-time systems with WebSockets & Socket.IO
-- 🗄️ MySQL, PostgreSQL, Redis and Neo4j
-- ☁️ AWS, Docker and production deployments
-- 🔗 Blockchain Enthusiast (XRPL & Ethereum)
-- 🏆 Employee of the Year 2024
+* 💼 Backend Software Engineer with **4+ years of experience**
+* 🚀 Built and maintained **10+ microservices**
+* ⚡ Node.js, TypeScript, Express.js & NestJS
+* 🌐 Real-time systems with WebSockets
+* 🗄️ MySQL, PostgreSQL, Redis & Neo4j
+* ☁️ AWS, Docker & Production Deployments
+* 🔗 XRPL & Ethereum
+* 🏆 Employee of the Year 2024
 
 ---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsbsy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsbsy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbsy&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbsy&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
----
+<br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbsy&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbsy&theme=radical"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 My Github Card
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsbsy&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsbsy&theme=vue"/>
 </p>
 
 ---
 
-## 📊 Profile Summary
+### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsbsy&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itsbsy&theme=radical&row=1&column=6"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+### 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itsbsy&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsbsy&theme=react-dark"/>
 </p>
 
 ---
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,mysql,postgres,mongodb,redis,neo4j,docker,aws,git,github,vscode,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,docker,git,github,mongodb,mysql,postgres,redis,neo4j,aws,vscode,postman&perline=8"/>
 </p>
 
 ---
 
-## ⚙️ Backend Expertise
+### ⚙️ Backend Expertise
 
 <p align="center">
-
-REST APIs • Microservices • WebSockets • Redis • BullMQ • Kafka • RabbitMQ • Docker • AWS • JWT • System Design
-
+REST APIs • Microservices • WebSockets • Redis • BullMQ • Kafka • RabbitMQ • JWT • Docker • AWS
 </p>
 
 ---
 
-## ⭐ Featured Projects
+### ⭐ Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 SuperOne Platform
-High-scale rewards and gaming platform supporting thousands of users.
-
-**Tech:**  
-Node.js • Redis • MySQL • Neo4j • XRPL • AWS
-
-</td>
-
-<td width="50%">
-
-### 📅 Interview Scheduling Platform
-Scheduling system with Google Calendar integration.
-
-**Tech:**  
-NestJS • PostgreSQL • Redis
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💪 Fitness Platform
-Real-time trainer-customer communication.
-
-**Tech:**  
-NestJS • Socket.IO • MySQL
-
-</td>
-
-<td width="50%">
-
-### 🔗 URL Shortener
-Personal URL shortening service.
-
-**Tech:**  
-Node.js • Redis • PostgreSQL
-
-</td>
-</tr>
-</table>
+| Project                          | Tech                                   |
+| -------------------------------- | -------------------------------------- |
+| 🔥 SuperOne Platform             | Node.js • Redis • MySQL • Neo4j • XRPL |
+| 📅 Interview Scheduling Platform | NestJS • PostgreSQL • Redis            |
+| 💪 Fitness Platform              | NestJS • Socket.IO • MySQL             |
+| 🔗 URL Shortener (Coming Soon)   | Node.js • Redis • PostgreSQL           |
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 <p align="center">
-
 System Design • Distributed Systems • AWS Architecture • Kubernetes
-
 </p>
 
 ---
 
-## 👀 Profile Views
+### 👀 Profile Views Counter
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/itsbsy/count.svg"/>
@@ -171,7 +127,7 @@ System Design • Distributed Systems • AWS Architecture • Kubernetes
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
 
@@ -189,9 +145,6 @@ System Design • Distributed Systems • AWS Architecture • Kubernetes
 
 </p>
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=120&section=footer"/>
-</p>
-```
+<h3 align="center">
+Thanks for visiting! ⭐
+</h3>
